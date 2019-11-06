@@ -1,2 +1,3 @@
 # qspi-readflash
-demo to read flash data through QaudSPI bus
+Demo to read flash data through QaudSPI bus.
+Run set_01234.hex first.
